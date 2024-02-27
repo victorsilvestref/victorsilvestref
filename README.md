@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Victor Silvestre
+=================================
 
-<!--
-**victorsilvestref/victorsilvestref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer
+------------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Rio de Janeiro, Brazil
+* ⚡  Autistic person
+* ✉️  You can contact me at [victorsilvestref@gmail.com](mailto:victorsilvestref@gmail.com)
+* 🎓  Graduated in Internet Systems
+* 🌐  Passionate about web development
+* 🚀  HTML/CSS/Javascript/Typescript/ReactJS/NextJS
+  
