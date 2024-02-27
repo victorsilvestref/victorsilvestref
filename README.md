@@ -1,4 +1,4 @@
-Hi 👋 My name is Victor Silvestre
+I'm Victor Silvestre
 =================================
 
 Software Developer
@@ -9,5 +9,5 @@ Software Developer
 * ✉️  You can contact me at [victorsilvestref@gmail.com](mailto:victorsilvestref@gmail.com)
 * 🎓  Graduated in Internet Systems
 * 🌐  Passionate about web development
-* 🚀  HTML/CSS/Javascript/Typescript/ReactJS/NextJS
+* 🚀  HTML/CSS/Javascript/Typescript/ReactJS/NextJS/NodeJS
   
